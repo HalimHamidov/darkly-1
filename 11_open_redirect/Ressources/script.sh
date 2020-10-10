@@ -1,0 +1,1 @@
+curl 'http://192.168.X.X/index.php?page=redirect&site=dangerous.com' | grep 'flag'
